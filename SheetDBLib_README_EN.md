@@ -133,4 +133,4 @@ db.deleteRow('users', { name: { $startsWith: 'A' } });
 
 ## 📄 License
 
-MIT License © [Your Name]
+MIT License © [tu.van]
