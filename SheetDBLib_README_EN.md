@@ -12,7 +12,7 @@
 3. Paste the following `Script ID`:
 
 ```
-<YOUR_SCRIPT_ID_HERE>
+1sCtJ1RZTVI2CsI3foYFod0PiBhEdgJLl5jknAfpjGiS710rNOGSMi6AZ
 ```
 
 4. Choose a version (e.g., v1.0), set alias to: `SheetDB`
