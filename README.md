@@ -11,7 +11,7 @@
 3. Dán `Script ID` sau đây vào:
 
 ```
-<YOUR_SCRIPT_ID_HERE>
+1sCtJ1RZTVI2CsI3foYFod0PiBhEdgJLl5jknAfpjGiS710rNOGSMi6AZ
 ```
 
 4. Chọn phiên bản (VD: v1.0), đặt bí danh là: `SheetDB`
